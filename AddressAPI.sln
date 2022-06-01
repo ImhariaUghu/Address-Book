@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32407.343
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddressAPI", "ToDoAPI\AddressAPI.csproj", "{B8E508E1-A2CB-4D93-9D3C-87B248AC47EC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AddressAPI", "ToDoAPI\AddressAPI.csproj", "{B8E508E1-A2CB-4D93-9D3C-87B248AC47EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddressBook.Web", "AddressBook.Web\AddressBook.Web.csproj", "{ADBBA8B1-40FD-4576-A85A-ABE2C4CA58EF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{B8E508E1-A2CB-4D93-9D3C-87B248AC47EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B8E508E1-A2CB-4D93-9D3C-87B248AC47EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8E508E1-A2CB-4D93-9D3C-87B248AC47EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADBBA8B1-40FD-4576-A85A-ABE2C4CA58EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADBBA8B1-40FD-4576-A85A-ABE2C4CA58EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADBBA8B1-40FD-4576-A85A-ABE2C4CA58EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADBBA8B1-40FD-4576-A85A-ABE2C4CA58EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

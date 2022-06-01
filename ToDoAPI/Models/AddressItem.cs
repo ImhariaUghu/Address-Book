@@ -1,4 +1,8 @@
-﻿namespace ToDoAPI.Models
+﻿using Microsoft.EntityFrameworkCore;
+using System.ComponentModel.DataAnnotations;
+
+namespace AddressAPI.Models
+
 {
     public class AddressItem
     {

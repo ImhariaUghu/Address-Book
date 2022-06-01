@@ -1,4 +1,4 @@
-namespace ToDoAPI
+namespace AddressAPI
 {
     public class WeatherForecast
     {
